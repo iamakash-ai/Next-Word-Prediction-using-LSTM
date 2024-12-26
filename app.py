@@ -44,7 +44,7 @@ def predict_next_word(text,n=2):
             
     return ' '.join(text.split()[-n:])
 
-input_text=st.text_input("Enter the sequence of Words","To be or not to")
+input_text=st.text_input("Enter the sequence of Words","What is the course")
 n = st.number_input("No of Words need to predict:", min_value=0, max_value=25, value=3, step=1)
 
 if st.button("Predict Next Word"):    
