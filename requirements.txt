@@ -1,0 +1,5 @@
+TensorFlow
+Streamlit
+NumPy
+Pandas
+Matplotlib
