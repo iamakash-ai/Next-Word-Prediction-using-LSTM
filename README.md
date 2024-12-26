@@ -53,7 +53,7 @@ pip install -r requirements.txt
 1. Place your training dataset in the `data/` folder (e.g., `data/train_text.txt`).
 2. Run the training script:
    ```bash
-   python lstm_project.ipynb
+   Use Jupyter Notebook lstm_project.ipynb
    ```
 3. The trained model will be saved in the `models/` directory.
 
@@ -72,7 +72,7 @@ pip install -r requirements.txt
 Next-word-prediction-using-LSTM/
 ├── data/                # Dataset folder             
 ├── app.py               # Streamlit application
-├── next_word_lstm.h5   # Model 
+├── next_word_lstm.h5    # Model 
 ├── tokenizer.pickle     # tokenizer file
 ├── requirements.txt     # Python dependencies
 └── README.md            # Project documentation
