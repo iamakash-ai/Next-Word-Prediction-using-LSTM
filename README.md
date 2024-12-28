@@ -3,11 +3,8 @@ Generate Next word of sentence using LSTM Network
 
 
 This project implements a Next Word Prediction model using Long Short-Term Memory (LSTM) neural networks, built with TensorFlow and deployed with Streamlit for an interactive web application.
+You can view the app deployed in StreamlitCloud. [app](https://next-word-prediction-using-lstm-4mnhdeaa5gftappj8cgttr3.streamlit.app/)
 
-Streamlit 
-
-You can view the app deployed in StreamlitCloud. [app](https://next-word-prediction-using-lstm-4mnhdeaa5gftappj8cgttr3.streamlit.app/)   
----
 
 ## Features
 - **Deep Learning Model:** Utilizes an LSTM-based neural network to predict the next word in a given sequence of text.
