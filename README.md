@@ -6,6 +6,7 @@ This project implements a Next Word Prediction model using Long Short-Term Memor
 
 
 ## Streamlit 
+
 You can view the app deployed in StreamlitCloud. [app](https://next-word-prediction-using-lstm-4mnhdeaa5gftappj8cgttr3.streamlit.app/)   
 ---
 
