@@ -18,7 +18,7 @@ st.markdown(
     """, unsafe_allow_html=True)
 
 # App title
-st.title("Next Word Prediction Application")
+st.title("Next Word Prediction Application- Akash Kamble")
 #Load the LSTM Model
 model=load_model('next_word_lstm.h5')
 #3 Laod the tokenizer
